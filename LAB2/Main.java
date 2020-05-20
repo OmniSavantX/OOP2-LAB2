@@ -6,7 +6,7 @@
  * @author Mandy Achieng
  * Admission Number : 093058 
  * Email : mandy.achieng@strathmore.edu
- * @author Dennis Gikunyu
+ * @author Dennis Mwangi Gikunyu
  * Admission Number : 
  * Email : dennis.gikunju@strathmore.edu
  */
