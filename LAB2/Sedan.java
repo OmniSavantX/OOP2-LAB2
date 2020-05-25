@@ -52,13 +52,14 @@ class Sedan extends Vehicle implements Automobile {
 
     @Override
     void stop() {
-        // 
-
+        //
+        System.out.println("The vehicle is coming to a stop"); 
     }
 
     @Override
     void gas() {
-        // 
+        //
+        System.out.println("Please wait as the vehicle's Fuel Capacity is determined"); 
     }
 
 }
